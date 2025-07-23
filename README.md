@@ -143,7 +143,3 @@ psql -h localhost -U postgres -d telemetry_db
 - All services are containerized; no local Go or PostgreSQL installation is required for running the pipeline.
 - The simulation script is optional but recommended for testing the end-to-end flow.
 - For production, consider securing environment variables and using managed Kafka/Postgres services.
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
