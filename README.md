@@ -99,8 +99,8 @@ This will send simulated telemetry data to the producer API, which will flow thr
 You can connect to the PostgreSQL database using any client:
 - Host: `localhost`
 - Port: `5432`
-- User: `postgres`
-- Password: `password`
+- User: `replaceme`
+- Password: `replaceme`
 - Database: `telemetry_db`
 
 Example (using psql):
